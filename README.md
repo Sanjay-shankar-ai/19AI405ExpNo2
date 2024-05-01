@@ -56,8 +56,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 ##Program
 ```
-Developed by:Abinaya.A
-Register no:212223040003
+Developed by: Sanjay S
+Register no:212221230086
 from collections import defaultdict
 def dfs(graph,start,visited,path):
     path.append(start)
